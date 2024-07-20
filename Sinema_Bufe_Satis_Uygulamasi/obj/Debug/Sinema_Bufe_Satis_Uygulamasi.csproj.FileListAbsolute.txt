@@ -1,0 +1,11 @@
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.exe.config
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.exe
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\bin\Debug\Sinema_Bufe_Satis_Uygulamasi.pdb
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.AssemblyReference.cache
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.SuggestedBindingRedirects.cache
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Form1.resources
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.Properties.Resources.resources
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.GenerateResource.cache
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.csproj.CoreCompileInputs.cache
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.exe
+D:\SQL\C# Projeler\Sinema_Bufe_Satis_Uygulamasi\Sinema_Bufe_Satis_Uygulamasi\obj\Debug\Sinema_Bufe_Satis_Uygulamasi.pdb
